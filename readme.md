@@ -5,7 +5,7 @@
 
 ## Tecnologias utilizadas
 
-- Bun
+- Bun (<https://bun.sh/>)
 - Expo (<https://expo.dev/>)
 - React Navigation 6 <https://reactnavigation.org/()>
 - Zod (<https://zod.dev/>)
