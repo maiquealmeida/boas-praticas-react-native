@@ -13,7 +13,7 @@
 
 ## Porque utilizar o Bun neste projeto?
 
-O Bun é um gerenciador de pacotes e um executor de tarefas que visa ser uma alternativa mais rápida e eficiente ao npm e ao Yarn.
+O [Bun.sh](https://bun.sh/) é um gerenciador de pacotes e um executor de tarefas que visa ser uma alternativa mais rápida e eficiente ao npm e ao Yarn.
 
 Embora o npm e o Yarn sejam os gerenciadores de pacotes mais populares no ecossistema Node.js, o Bun traz algumas características distintas que podem ser consideradas vantajosas para certos projetos e desenvolvedores. Além de que a minha curiosidade pra ver ele com React Native é maior do que a minha coragem pra utilizar ele em um projeto já em produção.  
 
